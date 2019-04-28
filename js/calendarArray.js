@@ -265,49 +265,47 @@ let calendarActivities = {
 	],
 	"Semana 6 front": [
 	    {
-	        date: "22 de Abril (l)", 
-	        topic: "Intro a DOM y sus nodos",
-	        subthemes: [
-				"Reto, con array de objetos, funcion contructora y metodos",
-				"¿Qué es el DOM?",
-				"¿Qué puedo hacer con el DOM?",
-				"Selectores",
-				"Manipulación de Nodos (Estilos)"
-	        ],
-			mentor: 'Michael'
+	      date: "22 de Abril (l)", 
+	      topic: "Intro a DOM y repaso de metodos de objetos",
+	      subthemes: [
+					"Ejercicio CURP",
+					"Repaso de selectores"
+	      ],
+				mentor: 'David'
 	    }, {
 	    	date:"23 de Abril (M)",
-	    	topic:"JavaScript",
+	    	topic:"Repaso JS",
 	    	subthemes:[
-	    		"Eventos",
-	    		"Event Listeners",
-	    		"Carga de contenidos"
+	    		"Repaso de temas concretos de JS",
+	    		"Repaso de selectores con javascript"
 	    	],
-			mentor: 'Michael'
+				mentor: 'David'
 	    }, {
 	    	date:"24 de Abril (M)",
-	    	topic:"JavaScript",
+	    	topic:"Ejercicios: Selectores e introducción a creación de nodos",
 	    	subthemes:[
-	    		"Eventos DOM",
-	    		"Eventos DOM HTML"
+	    		"Ejercicios",
+	    		"Create Element"
 	    	],
-			mentor: 'Michael'
+				mentor: 'David'
 	    } , {
 	    	date:"25 de Abril (J)",
-	    	topic:"JavaScript INHABIL",
+	    	topic:"Ejercicios: manipulación de Nodos",
 	    	subthemes:[
-	    		"AJAX",
-	    		"Objeto XHTTP",
-	    		"Lectura de archivos JSON"
+					"Repaso de Create Element",
+	    		"Ejercicio",
+	    		"Remove Element"
 	    	],
-			mentor: 'Michael'
+				mentor: 'David'
 	    } , {
 	    	date:"26 de Abril (V) INHABIL",
-	    	topic:"Rally JS",
+	    	topic:"Ejercicios del DOM, Getters y Setters",
 	    	subthemes:[
-	    		"N/A"
+					"Repaso de creación, y eliminación de nodos",
+					"introducción a JS accessors",
+					"Sintaxis de getters y setters"
 	    	],
-			mentor: 'Michael'
+				mentor: 'David'
 	    }, {
 	    	date:"27 de Abril (S) INHABIL",
 	    	topic:"NA",
