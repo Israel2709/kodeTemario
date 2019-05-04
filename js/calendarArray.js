@@ -317,53 +317,58 @@ let calendarActivities = {
 	"Semana 7 front": [
 	    {
 	        date: "29 de Abril (L)", 
-	        topic: "JavaScript",
+	        topic: "DOM, Getters y Setters",
 	        subthemes: [
-	            "AJAX, continuación",
-	            "Envío de datos",
-	            "Ejercicios"
+	            "DOM",
+	            "Ejercicios de manipulacion de DOM",
+	            "Introduccion a JS Accessors  (Getters, Setters)"
 	        ],
-			mentor: 'Michael'
+			mentor: 'David'
 	    }, {
 	    	date:"30 de Abril (M)",
-	    	topic:"JavaScript",
+	    	topic:"Repaso DOM, Getters, Setters, e introduccion al BOM",
 	    	subthemes:[
-	    		"Uso del estándar ES6",
-	    		"Variables let y const",
-	    		"Arrow functions"
+	    		"Ejercicios de manipulacion del DOM",
+	    		"Explicacion de getters y setters",
+	    		"Introduccion al Browser Object Model"
 	    	],
-			mentor: 'Michael'
+			mentor: 'David'
 	    }, {
 	    	date:"1 de Mayo (W)",
-	    	topic:"JavaScript INHABIL",
+	    	topic:"BOM e introduccion a AJAX",
 	    	subthemes:[
-	    		"Interpolación",
-	    		"Parámetros por defecto",
-	    		"Operador Spread",
-	    		"Estructuración de objetos"
+	    		"BOM Timers",
+	    		"Ejercicios con timers",
+	    		"Introduccion a AJAX",
+	    		"Client-server"
 	    	],
-			mentor: 'Michael'
+			mentor: 'David'
 	    } , {
 	    	date:"2 de Mayo (J)",
-	    	topic:"JavaScript",
+	    	topic:"AJAX e introduccion a ES6",
 	    	subthemes:[
-	    		"Ejercicios de lógica y aplicación de JS"
+					"Continuacion con AJAX",
+					"Ejercicio Firebase (AJAX POST)",
+					"Introduccion a ES6"
 	    	],
-			mentor: 'Michael'
+			mentor: 'David'
 	    } , {
 	    	date:"3 de Mayo (V)",
-	    	topic:"Desafío 2",
+	    	topic:"AJAX y ES6",
 	    	subthemes:[
-	    		"Continuación de desafío con JS"
+					"Repaso general",
+					"ES6",
+					"Fetch",
+					"Ejercicio Fetch, ES6"
 	    	],
-			mentor: 'Michael'
+			mentor: 'David'
 	    }, {
 	    	date:"4 de Mayo (S)",
 	    	topic:"AWS",
 	    	subthemes:[
 	    		"N/A"
 			],
-			mentor: ''
+			mentor: 'Charles'
 	    }
 	],
 	"Semana 8 front": [
